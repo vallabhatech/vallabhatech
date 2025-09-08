@@ -6,13 +6,13 @@ Web Developer
 -------------
 🚀 CSE Student | 🌐 Tech Enthusiast | 📚 Lifelong Learner 
 
-[cite_start]I'm a B.Tech student in Computer Science and Engineering at CVR College of Engineering in Hyderabad[cite: 3, 4]. I have a strong foundation in several programming languages, frameworks, and tools.
+I'm a B.Tech student in Computer Science and Engineering at CVR College of Engineering in Hyderabad[cite: 3, 4]. I have a strong foundation in several programming languages, frameworks, and tools.
 
 * 🌍 I'm based in Hyderabad, Telangana, India
-* [cite_start]🖥️ See my portfolio at [Portfolio](https://surishettyharivallabhasai.me/) [cite: 1]
-* [cite_start]✉️ You can contact me at [vallabha1243@gmail.com](mailto:vallabha1243@gmail.com) [cite: 1]
-* [cite_start]👥 I'm looking to collaborate on projects that promote social innovation and digital literacy[cite: 38].
-* [cite_start]💬 I was a core committee member for the Kalakriti fest and have participated in coding challenges and community outreach activities as a member of the Coding Club and an NSS Volunteer at CVR College[cite: 39, 42].
+* 🖥️ See my portfolio at [Portfolio](https://surishettyharivallabhasai.me/) 
+* ✉️ You can contact me at [vallabha1243@gmail.com](mailto:vallabha1243@gmail.com) 
+* 👥 I'm looking to collaborate on projects that promote social innovation and digital literacy
+* 💬 I was a core committee member for the Kalakriti fest and have participated in coding challenges and community outreach activities as a member of the Coding Club and an NSS Volunteer at CVR College.
 
 ---
 
