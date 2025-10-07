@@ -1,53 +1,112 @@
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/176309783/0785949b-9127-417c-8b55-ab5a4333674e.gif">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Surishetty Harivallabha Sai
-====================================================================================================================================================
+<h1 align="center">Hi 👋, I'm Surishetty Harivallabha Sai</h1>
+<h3 align="center">🚀 Web Developer | 💻 CSE Student | 🌐 Tech Enthusiast | 📚 Lifelong Learner</h3>
 
-Web Developer
--------------
-🚀 CSE Student | 🌐 Tech Enthusiast | 📚 Lifelong Learner 
-
-I'm a B.Tech student in Computer Science and Engineering at CVR College of Engineering in Hyderabad[cite: 3, 4]. I have a strong foundation in several programming languages, frameworks, and tools.
-
-* 🌍 I'm based in Hyderabad, Telangana, India
-* 🖥️ See my portfolio at [Portfolio](https://surishettyharivallabhasai.me/) 
-* ✉️ You can contact me at [vallabha1243@gmail.com](mailto:vallabha1243@gmail.com) 
-* 👥 I'm looking to collaborate on projects that promote social innovation and digital literacy
-* 💬 I was a core committee member for the Kalakriti fest and have participated in coding challenges and community outreach activities as a member of the Coding Club and an NSS Volunteer at CVR College.
-
----
-
-## 🛠️ Tech Stack 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express.js" title="Express.js" width="36" height="36" /></a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" title="scikit-learn" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" alt="NumPy" title="NumPy" width="36" height="36" /></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" alt="pandas" title="pandas" width="36" height="36" /></a><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matplotlib-colored.svg" alt="Matplotlib" title="Matplotlib" width="36" height="36" /></a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/seaborn-colored.svg" alt="Seaborn" title="Seaborn" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" alt="Adobe Photoshop" title="Adobe Photoshop" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vallabhatech&label=Profile%20views&color=0e75b6&style=flat" alt="vallabhatech" />
 </p>
 
 ---
 
-### My Projects
-
-* [cite_start]**CareSync - Mental Health Conversational Bot** (2025): An AI-first-aid chatbot designed to help people handle anxiety, burnout, and stress, with a focus on accessibility and privacy[cite: 21, 22].
-* [cite_start]**TasteTrove - Firebase-based Recipe Website** (2025): A full-stack cooking platform with user login, recipe search, and a profile system using Firebase Auth & Firestore[cite: 24, 25].
-* [cite_start]**VibeInk Manga Web App** (2025): A manga reading app featuring a responsive UI, dark mode, and detailed manga pages[cite: 27, 28].
-* [cite_start]**ScholarAI - Research Assistant** (Hackcelerate, 2025): An AI-powered co-pilot for students that can summarize papers, look up citations, and perform live searches using Perplexity API, Streamlit, and OpenAI[cite: 30, 31].
-* [cite_start]**Hangman Game with Tkinter GUI** (2024): A desktop application created with Python, featuring difficulty levels, sound support, and a clean UI[cite: 33, 34].
-
----
-
-### Experience & Activities
-
-* [cite_start]**IEEE Member, CSI Member, Ikshana NGO** (2023 - Present): I've volunteered in drives and technical events, promoting social innovation and digital literacy[cite: 37, 38].
-* [cite_start]**Hackathons**: I have participated in several hackathons, including the **HSBC Hackathon**, **Perplexity Hackathon**, and the **GotLatent AI/ML Hackathon**[cite: 41].
-* [cite_start]**Certifications & Coursework**: I have completed coursework in **DBMS (Oracle SQL, PL/SQL)**, **Advanced Data Structures in Java**, and **AI/ML Foundations - Deep Learning**[cite: 44, 45, 46]. [cite_start]I also have certifications in **Firebase Authentication & Firestore**, **GitHub & Version Control**, and **Figma UI/UX Design**[cite: 47, 48, 49].
+### 👨‍💻 About Me
+- 🎓 I'm a **B.Tech CSE student at CVR College of Engineering**, Hyderabad  
+- 🌍 Based in **Hyderabad, Telangana, India**  
+- 🔭 I’m currently working on **[FoodShare — A community-driven food donation platform](#)**  
+- 🤝 Looking to collaborate on **social innovation & digital literacy projects**  
+- 💬 Ask me about **Web Dev, AI/ML, Firebase, and UI/UX Design**  
+- ✉️ Reach me at **[vallabha1243@gmail.com](mailto:vallabha1243@gmail.com)**  
+- 🖥️ Check out my **[Portfolio](#)**  
+- ⚡ Fun fact: I believe great code is 90% clarity and 10% caffeine ☕
 
 ---
 
-### Socials
+### 🛠️ Tech Stack
 
-<p align="left"> <a href="https://www.github.com/vallabhatech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/hari577" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="http://www.medium.com/vallabhatech" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.linkedin.com/in/surishetty-harivallabha-sai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+#### 💻 Languages
+C | Java | Python | JavaScript  
+
+#### 🌐 Web & App Development
+React | Node.js | Express.js | HTML5 | CSS3 | Bootstrap | Firebase | Django | Flutter  
+
+#### 🧠 AI/ML & Data
+scikit-learn | TensorFlow | NumPy | Pandas | Matplotlib | Seaborn  
+
+#### 🗄️ Databases
+MongoDB | PostgreSQL | MySQL | Firebase Firestore  
+
+#### 🎨 Design
+Figma | Adobe Photoshop  
+
+#### 🧰 Tools & Version Control
+Git | GitHub | VS Code | Postman  
 
 ---
 
-## 📊 GitHub Stats 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vallabhatech&show_icons=true&theme=radical) 
-<a href="http://www.github.com/vallabhatech"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vallabhatech&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-```
+### 🧩 My Projects
+
+- 🧠 **CareSync – Mental Health Conversational Bot (2025)**  
+  An AI-first-aid chatbot designed to help people handle anxiety, burnout, and stress. Focused on accessibility & privacy.
+
+- 🍳 **TasteTrove – Firebase-based Recipe Website (2025)**  
+  A full-stack cooking platform with login, recipe search, and a user profile system using Firebase Auth & Firestore.
+
+- 📚 **ScholarAI – Research Assistant (Hackcelerate, 2025)**  
+  An AI-powered study co-pilot using Perplexity API, Streamlit & OpenAI to summarize papers and manage citations.
+
+- 🎮 **Hangman Game with Tkinter GUI (2024)**  
+  A Python desktop app featuring multiple difficulty levels, sound support, and a clean UI.
+
+- 📖 **VibeInk Manga Web App (2025)**  
+  A responsive manga reading app with dark mode and dynamic page rendering.
+
+---
+
+### 🌟 Experience & Activities
+- 👥 **IEEE Member, CSI Member, Ikshana NGO Volunteer (2023–Present)**  
+  Promoting digital literacy & organizing tech events.  
+- 💡 **Hackathons:** HSBC Hackathon, Perplexity Hackathon, GotLatent AI/ML Hackathon  
+- 📜 **Certifications:**  
+  - DBMS (Oracle SQL, PL/SQL)  
+  - Advanced Data Structures in Java  
+  - AI/ML Foundations – Deep Learning  
+  - Firebase Authentication & Firestore  
+  - GitHub & Version Control  
+  - Figma UI/UX Design  
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/vallabha-tech/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vallabha-tech" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/kanns577" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanns577" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vallabhatech&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallabhatech&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhatech&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vallabhatech&theme=algolia&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
