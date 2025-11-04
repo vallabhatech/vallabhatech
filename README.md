@@ -16,7 +16,7 @@
 - 🤝 Looking to collaborate on **social innovation & digital literacy projects**  
 - 💬 Ask me about **Web Dev, AI/ML, Firebase, and UI/UX Design**  
 - ✉️ Reach me at **[vallabha1243@gmail.com](mailto:vallabha1243@gmail.com)**  
-- 🖥️ Check out my **[Portfolio](#)**  
+- 🖥️ Check out my **[Portfolio](VALLABHA.ME)**  
 - ⚡ Fun fact: I believe great code is 90% clarity and 10% caffeine ☕
 
 ---
