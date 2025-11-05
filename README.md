@@ -1,112 +1,56 @@
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/176309783/0785949b-9127-417c-8b55-ab5a4333674e.gif">
+[![An image of @vallabhatech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vallabhatech)](https://holopin.io/@vallabhatech)
 
-<h1 align="center">Hi 👋, I'm Surishetty Harivallabha Sai</h1>
-<h3 align="center">🚀 Web Developer | 💻 CSE Student | 🌐 Tech Enthusiast | 📚 Lifelong Learner</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vallabhatech&label=Profile%20views&color=0e75b6&style=flat" alt="vallabhatech" />
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🎓 I'm a **B.Tech CSE student at CVR College of Engineering**, Hyderabad  
-- 🌍 Based in **Hyderabad, Telangana, India**  
-- 🔭 I’m currently working on **[FoodShare — A community-driven food donation platform](#)**  
-- 🤝 Looking to collaborate on **social innovation & digital literacy projects**  
-- 💬 Ask me about **Web Dev, AI/ML, Firebase, and UI/UX Design**  
-- ✉️ Reach me at **[vallabha1243@gmail.com](mailto:vallabha1243@gmail.com)**  
-- 🖥️ Check out my **[Portfolio](VALLABHA.ME)**  
-- ⚡ Fun fact: I believe great code is 90% clarity and 10% caffeine ☕
+# Hi there 👋, I'm Harivallabha Sai Surishetty!
+<br><br>I'm a driven **Computer Science Student** and **Full Stack Developer** from CVR College of Engineering.  
+I'm passionate about building tech that blends creativity, utility, and empathy — from AI chatbots to social-impact platforms.  
+Currently exploring **AI/ML**, **Android**, and **Cloud**, while crafting solutions that matter.  
+<br>- 🚀 Always open for collaboration on real-world projects and hackathons!  
+<br>- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/vallabha-tech) | [Email](mailto:vallabha1243@gmail.com)  
 
 ---
 
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-C | Java | Python | JavaScript  
-
-#### 🌐 Web & App Development
-React | Node.js | Express.js | HTML5 | CSS3 | Bootstrap | Firebase | Django | Flutter  
-
-#### 🧠 AI/ML & Data
-scikit-learn | TensorFlow | NumPy | Pandas | Matplotlib | Seaborn  
-
-#### 🗄️ Databases
-MongoDB | PostgreSQL | MySQL | Firebase Firestore  
-
-#### 🎨 Design
-Figma | Adobe Photoshop  
-
-#### 🧰 Tools & Version Control
-Git | GitHub | VS Code | Postman  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vallabha-tech)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://vallabha.me)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/vallabhatech)
 
 ---
 
-### 🧩 My Projects
-
-- 🧠 **CareSync – Mental Health Conversational Bot (2025)**  
-  An AI-first-aid chatbot designed to help people handle anxiety, burnout, and stress. Focused on accessibility & privacy.
-
-- 🍳 **TasteTrove – Firebase-based Recipe Website (2025)**  
-  A full-stack cooking platform with login, recipe search, and a user profile system using Firebase Auth & Firestore.
-
-- 📚 **ScholarAI – Research Assistant (Hackcelerate, 2025)**  
-  An AI-powered study co-pilot using Perplexity API, Streamlit & OpenAI to summarize papers and manage citations.
-
-- 🎮 **Hangman Game with Tkinter GUI (2024)**  
-  A Python desktop app featuring multiple difficulty levels, sound support, and a clean UI.
-
-- 📖 **VibeInk Manga Web App (2025)**  
-  A responsive manga reading app with dark mode and dynamic page rendering.
-
----
-
-### 🌟 Experience & Activities
-- 👥 **IEEE Member, CSI Member, Ikshana NGO Volunteer (2023–Present)**  
-  Promoting digital literacy & organizing tech events.  
-- 💡 **Hackathons:** HSBC Hackathon, Perplexity Hackathon, GotLatent AI/ML Hackathon  
-- 📜 **Certifications:**  
-  - DBMS (Oracle SQL, PL/SQL)  
-  - Advanced Data Structures in Java  
-  - AI/ML Foundations – Deep Learning  
-  - Firebase Authentication & Firestore  
-  - GitHub & Version Control  
-  - Figma UI/UX Design  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/vallabha-tech/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vallabha-tech" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/kanns577" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanns577" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
-  </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=vallabhatech&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhatech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vallabhatech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=vallabhatech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 
-### 📊 GitHub Stats/
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vallabhatech&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=vallabhatech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallabhatech&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhatech&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vallabhatech&theme=algolia&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
