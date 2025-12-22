@@ -1,5 +1,12 @@
 [![An image of @vallabhatech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vallabhatech)](https://holopin.io/@vallabhatech)
 
+
+
+
+
+
+
+
 # Hi there 👋, I'm Harivallabha Sai Surishetty!
 <br><br>I'm a driven **Computer Science Student** and **Full Stack Developer** from CVR College of Engineering.  
 I'm passionate about building tech that blends creativity, utility, and empathy — from AI chatbots to social-impact platforms.  
