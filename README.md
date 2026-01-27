@@ -1,5 +1,3 @@
-[![An image of @vallabhatech's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vallabhatech)](https://holopin.io/@vallabhatech)
-
 
 
 
