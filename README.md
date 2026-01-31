@@ -5,7 +5,7 @@
 
 
 
-# Hi there 👋, I'm Harivallabha Sai Surishetty!
+# Hi there 👋, I'm Harivallabha Sai Surishet ty!
 <br><br>I'm a driven **Computer Science Student** and **Full Stack Developer** from CVR College of Engineering.  
 I'm passionate about building tech that blends creativity, utility, and empathy — from AI chatbots to social-impact platforms.  
 Currently exploring **AI/ML**, **Android**, and **Cloud**, while crafting solutions that matter. 
