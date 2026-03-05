@@ -1,70 +1,20 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Harivallabha Sai Surishetty</h1>
+<h3 align="center">�‍💻 B.Tech CSE Student | Full-Stack Developer | AI Enthusiast | Android Team Lead</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Vallabha!+👋;Full-Stack+Developer;AI+Enthusiast;Android+Team+Lead;Open-Source+Contributor&center=true&width=500&height=50">
+<img align="right" src="https://github.com/user-attachments/assets/f34116f3-7055-4ff4-9f41-1457d6245970" width="250"/>
 
-</div>
+🧠 **Computer Science Student** at CVR College of Engineering  
+❤️ Passionate about **Building Scalable AI-Integrated Web Systems**  
+💻 Full Stack Developer | 🤖 AI Enthusiast | 📱 Android Team Lead | 🌱 Open-Source Contributor  
 
----
+🔭 I'm currently working on **CareSync** - AI mental wellness chatbot  
+🌱 I'm currently learning **Machine Learning, Next.js, Gemini API**  
+💬 Ask me about **React, Node.js, Android Development, AI Integration**  
+📫 How to reach me **vallabha1243@gmail.com**  
+⚡ Fun fact **I can go from debugging complex algorithms to leading Android team meetings — in one day. No logic errors in that workflow!**
 
-<div align="center">
-
-## 🚀 About Me
-
-🎓 **B.Tech CSE Student** at CVR College of Engineering  
-🤖 **Android Team Lead** for GDSC  
-💡 Building **scalable, AI-integrated web systems**  
-🌱 **Open-source enthusiast** passionate about innovative solutions
-
-I'm a passionate developer who loves creating impactful digital experiences. From leading mobile development teams to architecting intelligent web applications, I thrive at the intersection of technology and creativity.
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Technical Arsenal
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
-
-### ⚡ Frameworks
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-<br/>
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
-
-### 🚀 DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
+# � Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -95,58 +45,19 @@ I'm a passionate developer who loves creating impactful digital experiences. Fro
 
 ---
 
----
-
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img src="https://github-readme-stats-six-kappa-51.vercel.app/api?username=vallabhatech&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats-six-kappa-51.vercel.app/api/top-langs/?username=vallabhatech&layout=compact&theme=radical" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vallabhatech&theme=radical" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vallabhatech&color=blueviolet" alt="Profile Views" />
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vallabhatech&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vallabhatech&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhatech&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=vallabhatech&icon=1&color=0)](https://visitcount.itsvg.in)
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/vallabha1243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vallabha1243" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vallabha-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vallabha-tech" height="30" width="40" /></a>
+<a href="https://www.buymeacoffee.com/vallabhatech" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" width="120" /></a>
+</p>
 
-<div align="center">
-
-## 🐍 Snake Animation
-
-<img src="https://raw.githubusercontent.com/vallabhatech/vallabhatech/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📫 Let's Connect & Support
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vallabha-tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.vallabha.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vallabha1243@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vallabha1243)
-
-<br/>
-
-<a href="https://www.buymeacoffee.com/vallabhatech" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-Made with ☕ and Code by Harivallabha Sai Surishetty
-
-</div>
+![snake gif](https://github.com/vallabhatech/vallabhatech/blob/output/github-snake-dark.svg)
 
