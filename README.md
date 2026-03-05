@@ -1,6 +1,23 @@
-# Hi there, I'm Vallabha! 👋
+<div align="center">
 
-Welcome to my GitHub profile.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Vallabha!+👋;Full-Stack+Developer;AI+Enthusiast;Android+Team+Lead;Open-Source+Contributor&center=true&width=500&height=50">
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 About Me
+
+🎓 **B.Tech CSE Student** at CVR College of Engineering  
+🤖 **Android Team Lead** for GDSC  
+💡 Building **scalable, AI-integrated web systems**  
+🌱 **Open-source enthusiast** passionate about innovative solutions
+
+I'm a passionate developer who loves creating impactful digital experiences. From leading mobile development teams to architecting intelligent web applications, I thrive at the intersection of technology and creativity.
+
+</div>
 
 ---
 
