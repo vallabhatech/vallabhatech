@@ -3,7 +3,8 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/f34116f3-7055-4ff4-9f41-1457d6245970" width="250"/>
 
-🧠 **Computer Science Student** at CVR College of Engineering  
+🧠 **Computer Science Student** 
+at CVR College of Engineering  
 ❤️ Passionate about **Building Scalable AI-Integrated Web Systems**  
 💻 Full Stack Developer | 🤖 AI Enthusiast | 📱 Android Team Lead | 🌱 Open-Source Contributor  
 
