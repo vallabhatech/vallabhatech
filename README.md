@@ -8,6 +8,9 @@ at CVR College of Engineering
 💻 Full Stack Developer | 🤖 AI Enthusiast | 📱 Android Team Lead | 🌱 Open-Source Contributor  
 wrfrwf
 🌱 I'm currently learning **Machine Learning, Next.js, Gemini API**  
+
+
+k.n
 💬 Ask me about **React, Node.js, Android Development, AI Integration**  
 📫 How to reach me **vallabha1243@gmail.com**  
 ⚡ Fun fact **I can go from debugging complex algorithms to leading Android team meetings — in one day. No logic errors in that workflow!**
