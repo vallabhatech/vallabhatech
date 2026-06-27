@@ -53,7 +53,16 @@ k.n
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhatech&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vallabhatech&icon=1&color=0)](https://visitcount.itsvg.in)
+### My ELUSOC 2026 Admin Badges!
+
+<a href="https://www.edulinkup.dev/elusoc/profile/vallabhatech">
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/overseer.png" width="60" alt="Overseer" />
+  <img src="https://www.edulinkup.dev/elusoc/images/ticket/warden.png" width="60" alt="Warden" />
+</a>
+
+
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/vallabha1243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vallabha1243" height="30" width="40" /></a>
