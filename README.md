@@ -52,6 +52,8 @@ k.n
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vallabhatech&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhatech&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vallabhatech&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=vallabhatech&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
+
 ---
 ### My ELUSOC 2026 Admin Badges!
 
