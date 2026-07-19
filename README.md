@@ -61,6 +61,14 @@ k.n
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/overseer.png" width="60" alt="Overseer" />
   <img src="https://www.edulinkup.dev/elusoc/images/ticket/warden.png" width="60" alt="Warden" />
 </a>
+<p align="center">
+  <a href="https://committers.top/india/vallabhatech">
+    <img
+      src="https://user-badge.committers.top/india/vallabhatech.svg"
+      alt="Committers.top India Ranking"
+    />
+  </a>
+</p>
 
 
 
@@ -72,5 +80,5 @@ k.n
 <a href="https://www.buymeacoffee.com/vallabhatech" target="blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30" width="120" /></a>
 </p>
 
-![snake gif](https://github.com/vallabhatech/vallabhatech/blob/output/github-snake-dark.svg)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/9d9292bd-20fd-4d7c-adc2-9ef498ffa935" />
 
