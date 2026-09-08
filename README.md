@@ -114,10 +114,9 @@ Building practical software with **web, AI, mobile, and cloud technologies**.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vallabhatech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhatech&layout=compact&theme=tokyonight&hide_border=true" />
-
 <br/>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vallabhatech&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=vallabhatech&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
 
 <img src="https://streak-stats.demolab.com?user=vallabhatech&theme=tokyonight&hide_border=true" />
 
@@ -129,7 +128,7 @@ Building practical software with **web, AI, mobile, and cloud technologies**.
 
 <div align="center">
 
-[![Vallabha's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vallabhatech&theme=tokyo-night&hide_border=true)](https://github.com/vallabhatech)
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/9d9292bd-20fd-4d7c-adc2-9ef498ffa935" />
 
 </div>
 
