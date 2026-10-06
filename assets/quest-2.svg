@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200">
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00FF00" stroke-opacity=".07"/></pattern>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" fill-opacity=".3"/></pattern>
+</defs>
+<style>
+  text{font-family:"Courier New",Consolas,"DejaVu Sans Mono",monospace;font-weight:700;white-space:pre}
+  .ui{font-size:15px} .lbl{font-size:12px} .sm{font-size:13px} .big{font-size:20px} .xl{font-size:22px}
+  .flick{animation:f 7s infinite} @keyframes f{0%,95%,100%{opacity:1}96%{opacity:.6}97%{opacity:1} }
+  .pulse{animation:p 1.6s ease-in-out infinite} @keyframes p{0%,100%{opacity:.35}50%{opacity:1} }
+  .blink{animation:b 1s step-end infinite} @keyframes b{50%{opacity:0} }
+</style>
+<rect width="480" height="200" fill="#000"/>
+<rect x="0" width="468" height="200" fill="url(#grid)"/><g class="flick" filter="url(#glow)" pointer-events="none"><rect x="464.5" y="0" width="3" height="200" fill="#00FF00"/></g>
+<rect x="16" y="12" width="424" height="176" rx="5" fill="#001a06" stroke="#00a83a" stroke-opacity=".8"/><text class="lbl" x="32" y="36" fill="#2f8f45">◆ QUEST 02</text><rect x="356" y="22" width="68" height="20" rx="3" fill="none" stroke="#00FF00"/><rect class="pulse" x="356" y="22" width="68" height="20" rx="3" fill="#00FF00" fill-opacity=".18"/><text class="lbl" x="390" y="36" fill="#00FF00" text-anchor="middle">ACTIVE</text><text class="big" x="32" y="68" fill="#00FF00" filter="url(#glow)">CareSync</text><line x1="32" y1="78" x2="424" y2="78" stroke="#00a83a" stroke-opacity=".35"/><text class="sm" x="32" y="96" fill="#00a83a">A smart, modular web app for medicine tracking,</text><text class="sm" x="32" y="114" fill="#00a83a">symptom checking, and clinic discovery, making</text><text class="sm" x="32" y="132" fill="#00a83a">healthcare simple and accessible.</text><rect x="32" y="163" width="10" height="10" fill="#f1e05a"/><text class="lbl" x="48" y="172" fill="#00FF00">JavaScript</text><text class="lbl" x="138" y="172" fill="#00a83a">★ 27   forks 16   played today</text><text class="lbl" x="424" y="172" fill="#00FF00" text-anchor="end" filter="url(#glow)">OPEN &gt;&gt;</text><rect width="480" height="200" fill="url(#scan)" pointer-events="none"/>
+</svg>

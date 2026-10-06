@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="80" viewBox="0 0 960 80">
+<defs><filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00FF00" stroke-opacity=".07"/></pattern>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" fill-opacity=".35"/></pattern></defs>
+<style>text{font-family:"Courier New",Consolas,monospace;font-size:14px;font-weight:700}</style>
+<rect width="960" height="80" fill="#000"/><rect x="12" y="0" width="936" height="68" fill="url(#grid)"/>
+<g filter="url(#glow)"><path d="M14 0 V58 Q14 66 22 66 H938 Q946 66 946 58 V0" fill="none" stroke="#00FF00" stroke-width="3"/>
+<text x="40" y="46" fill="#00a83a">PID 1337 · SESSION ACTIVE</text>
+<text x="920" y="46" fill="#00a83a" text-anchor="end">press any key to continue_</text></g>
+<rect width="960" height="80" fill="url(#scan)"/></svg>

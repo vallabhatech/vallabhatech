@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="80" viewBox="0 0 240 80">
+<defs>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00FF00" stroke-opacity=".07"/></pattern>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" fill-opacity=".3"/></pattern>
+</defs>
+<style>
+  text{font-family:"Courier New",Consolas,"DejaVu Sans Mono",monospace;font-weight:700;white-space:pre}
+  .ui{font-size:15px} .lbl{font-size:12px} .sm{font-size:13px} .big{font-size:20px} .xl{font-size:22px}
+  .flick{animation:f 7s infinite} @keyframes f{0%,95%,100%{opacity:1}96%{opacity:.6}97%{opacity:1} }
+  .pulse{animation:p 1.6s ease-in-out infinite} @keyframes p{0%,100%{opacity:.35}50%{opacity:1} }
+  .blink{animation:b 1s step-end infinite} @keyframes b{50%{opacity:0} }
+</style>
+<rect width="240" height="80" fill="#000"/>
+<rect x="0" width="240" height="80" fill="url(#grid)"/><g class="flick" filter="url(#glow)" pointer-events="none"></g>
+<filter id="bg" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="6"/></filter>
+<rect class="pulse" style="animation-delay:0.4s" x="32" y="14" width="184" height="44" rx="6" fill="#00FF00" fill-opacity=".45" filter="url(#bg)"/>
+<rect x="32" y="14" width="184" height="44" rx="6" fill="#002a0b" stroke="#00FF00" stroke-width="2"/>
+<rect x="44" y="24" width="26" height="24" rx="3" fill="#000" stroke="#00FF00"/>
+<rect x="44" y="44" width="26" height="4" fill="#00FF00" fill-opacity=".5"/>
+<text class="sm" x="57" y="41" fill="#00FF00" text-anchor="middle" filter="url(#glow)">L</text>
+<text class="sm" x="82" y="41" fill="#eaffea" filter="url(#glow)">LINKEDIN</text>
+<rect width="240" height="80" fill="url(#scan)" pointer-events="none"/>
+</svg>

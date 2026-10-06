@@ -1,0 +1,79 @@
+{
+  "name": "Harivallabha Sai Surishetty",
+  "handle": "vallabhatech",
+  "class": "AI Product Builder & Systems Engineer",
+  "origin": "Computer Science Student · India",
+  "specialty": "Full-Stack, AI/ML & Cloud/DevOps",
+  "bio": "I turn useful ideas into working software across web, mobile, AI, cloud, and developer systems — with a bias toward shipping.",
+  "effects": [
+    {
+      "tag": "+",
+      "label": "BUILDING",
+      "text": "AI-powered products, developer tools & practical systems"
+    },
+    {
+      "tag": "&",
+      "label": "SEEKING PARTY",
+      "text": "Open source collaborators, hackathons & ambitious builders"
+    },
+    {
+      "tag": "?",
+      "label": "ASK ME ABOUT",
+      "text": "Full-stack apps, AI/ML, Android, GitHub & cloud systems"
+    },
+    {
+      "tag": "!",
+      "label": "FUN FACT",
+      "text": "I turn GitHub profiles, college systems and hackathon ideas into things people can actually use"
+    }
+  ],
+  "gear": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "Kotlin",
+    "React / Next.js",
+    "FastAPI / Node.js",
+    "Firebase",
+    "Docker",
+    "Kubernetes",
+    "AWS / Vercel",
+    "GitHub"
+  ],
+  "skills": [
+    "AI Product Development",
+    "Full-Stack Engineering",
+    "Backend & API Design",
+    "Cloud / DevOps",
+    "Android & Jetpack Compose",
+    "Automation",
+    "Open Source"
+  ],
+  "links": [
+    {
+      "key": "E",
+      "label": "EMAIL",
+      "url": "mailto:vallabha1243@gmail.com"
+    },
+    {
+      "key": "L",
+      "label": "LINKEDIN",
+      "url": "https://www.linkedin.com/in/vallabha-tech/"
+    },
+    {
+      "key": "W",
+      "label": "PORTFOLIO",
+      "url": "https://www.vallabha.xyz/"
+    },
+    {
+      "key": "G",
+      "label": "GITHUB",
+      "url": "https://github.com/vallabhatech"
+    }
+  ],
+  "roles": {
+    "GDG on Campus CVR": "Android Team Lead: mentoring, Kotlin/Compose & developer sessions",
+    "CSI CVRCE": "Technical / Executive: events, community systems & engineering",
+    "Open Source": "Building, reviewing, shipping & learning in public"
+  }
+}
