@@ -1,11 +1,11 @@
 <p align="center">
   <img src="./assets/header.svg?v=13393df5-1" width="100%" align="top">
-  <a href="https://github.com/vallabhatech/trying"><img src="./assets/dungeon.svg?v=7da178b1" width="100%" align="top"></a>
-  <img src="./assets/inventory.svg?v=4d187539" width="100%" align="top">
+  <a href="https://github.com/vallabhatech/trying"><img src="./assets/dungeon.svg?v=eed2103f" width="100%" align="top"></a>
+  <img src="./assets/inventory.svg?v=0ca7c3ef" width="100%" align="top">
 <!-- QUESTS:START -->
-<a href="https://github.com/vallabhatech/V.E.R.I.T.A.S"><img src="./assets/quest-1.svg?v=b955e739" width="50%" align="top" alt="V.E.R.I.T.A.S"></a><a href="https://github.com/vallabhatech/CareSync"><img src="./assets/quest-2.svg?v=ebeb3924" width="50%" align="top" alt="CareSync"></a>
-<a href="https://github.com/vallabhatech/A.U.R.A"><img src="./assets/quest-3.svg?v=1746123e" width="50%" align="top" alt="A.U.R.A"></a><a href="https://github.com/vallabhatech/Digital-Ally"><img src="./assets/quest-4.svg?v=892946e8" width="50%" align="top" alt="Digital-Ally"></a>
-<a href="https://github.com/vallabhatech/ChainIQ"><img src="./assets/quest-5.svg?v=cd0b3b37" width="50%" align="top" alt="ChainIQ"></a><a href="https://github.com/vallabhatech/SnakeAI"><img src="./assets/quest-6.svg?v=296bae81" width="50%" align="top" alt="SnakeAI"></a>
+<a href="https://github.com/vallabhatech/V.E.R.I.T.A.S"><img src="./assets/quest-1.svg?v=b955e739" width="50%" align="top" alt="V.E.R.I.T.A.S"></a><a href="https://github.com/vallabhatech/CareSync"><img src="./assets/quest-2.svg?v=43c47638" width="50%" align="top" alt="CareSync"></a>
+<a href="https://github.com/vallabhatech/A.U.R.A"><img src="./assets/quest-3.svg?v=e1e98216" width="50%" align="top" alt="A.U.R.A"></a><a href="https://github.com/vallabhatech/Digital-Ally"><img src="./assets/quest-4.svg?v=2115dce1" width="50%" align="top" alt="Digital-Ally"></a>
+<a href="https://github.com/vallabhatech/ChainIQ"><img src="./assets/quest-5.svg?v=8d645e20" width="50%" align="top" alt="ChainIQ"></a><a href="https://github.com/vallabhatech/SnakeAI"><img src="./assets/quest-6.svg?v=74f82ef4" width="50%" align="top" alt="SnakeAI"></a>
 <!-- QUESTS:END -->
   <img src="./assets/about.svg?v=cfe5277c" width="100%" align="top">
 <!-- CONNECT:START -->
