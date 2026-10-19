@@ -1,11 +1,11 @@
 <p align="center">
   <img src="./assets/header.svg?v=13393df5-1" width="100%" align="top">
-  <a href="https://github.com/vallabhatech/trying"><img src="./assets/dungeon.svg?v=14da9712" width="100%" align="top"></a>
+  <a href="https://github.com/vallabhatech/trying"><img src="./assets/dungeon.svg?v=82fe7b4a" width="100%" align="top"></a>
   <img src="./assets/inventory.svg?v=93d4c1b1" width="100%" align="top">
 <!-- QUESTS:START -->
-<a href="https://github.com/vallabhatech/V.E.R.I.T.A.S"><img src="./assets/quest-1.svg?v=b955e739" width="50%" align="top" alt="V.E.R.I.T.A.S"></a><a href="https://github.com/vallabhatech/CareSync"><img src="./assets/quest-2.svg?v=91d1ec2f" width="50%" align="top" alt="CareSync"></a>
-<a href="https://github.com/vallabhatech/A.U.R.A"><img src="./assets/quest-3.svg?v=206b8582" width="50%" align="top" alt="A.U.R.A"></a><a href="https://github.com/vallabhatech/Digital-Ally"><img src="./assets/quest-4.svg?v=8a1a11da" width="50%" align="top" alt="Digital-Ally"></a>
-<a href="https://github.com/vallabhatech/ChainIQ"><img src="./assets/quest-5.svg?v=fbc02fd6" width="50%" align="top" alt="ChainIQ"></a><a href="https://github.com/vallabhatech/SnakeAI"><img src="./assets/quest-6.svg?v=11ceb72f" width="50%" align="top" alt="SnakeAI"></a>
+<a href="https://github.com/vallabhatech/V.E.R.I.T.A.S"><img src="./assets/quest-1.svg?v=b955e739" width="50%" align="top" alt="V.E.R.I.T.A.S"></a><a href="https://github.com/vallabhatech/CareSync"><img src="./assets/quest-2.svg?v=dcaad938" width="50%" align="top" alt="CareSync"></a>
+<a href="https://github.com/vallabhatech/A.U.R.A"><img src="./assets/quest-3.svg?v=286d9db2" width="50%" align="top" alt="A.U.R.A"></a><a href="https://github.com/vallabhatech/Digital-Ally"><img src="./assets/quest-4.svg?v=0837fa69" width="50%" align="top" alt="Digital-Ally"></a>
+<a href="https://github.com/vallabhatech/ChainIQ"><img src="./assets/quest-5.svg?v=e54993ae" width="50%" align="top" alt="ChainIQ"></a><a href="https://github.com/vallabhatech/SnakeAI"><img src="./assets/quest-6.svg?v=e2f85d3a" width="50%" align="top" alt="SnakeAI"></a>
 <!-- QUESTS:END -->
   <img src="./assets/about.svg?v=cfe5277c" width="100%" align="top">
 <!-- CONNECT:START -->
