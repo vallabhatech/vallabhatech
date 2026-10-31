@@ -15,5 +15,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vallabhatech&label=Profile%20Views&color=00FF00&style=flat-square&base=000000" alt="vallabhatech Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vallabhatech&label=Profile%20Views&color=63D8D0&style=flat-square&base=000000" alt="vallabhatech Profile Views" />
 </div>
