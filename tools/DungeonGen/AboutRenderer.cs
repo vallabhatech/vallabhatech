@@ -44,7 +44,7 @@ static class AboutRenderer
         int ey = top + 46;
         foreach (var (e, lines) in effects)
         {
-            body.Append($"""<text class="lbl" x="{rx + 14}" y="{ey}" fill="#ffd84d" filter="url(#glow)">[{Esc(e.Tag)}]</text>""");
+            body.Append($"""<text class="lbl" x="{rx + 14}" y="{ey}" fill="#8CB9F4" filter="url(#glow)">[{Esc(e.Tag)}]</text>""");
             body.Append($"""<text class="lbl" x="{rx + 44}" y="{ey}" fill="{Label}">{Esc(e.Label)}</text>""");
             for (int i = 0; i < lines.Count; i++)
                 body.Append($"""<text class="sm" x="{rx + 44}" y="{ey + 17 + i * 16}" fill="{Green}">{Esc(lines[i])}</text>""");
