@@ -16,8 +16,8 @@ static class HtmlPage
       .day:hover,.day:focus{filter:brightness(1.35) drop-shadow(0 0 3px #63D8D0)}
       #tip{position:fixed;pointer-events:none;background:#111923;border:1px solid #63D8D0;color:#E8EDF2;padding:6px 10px;font-size:14px;border-radius:4px;box-shadow:0 0 12px #63D8D066;opacity:0;transition:opacity .1s;white-space:nowrap}
       a{color:#AAB5C4;text-decoration:none;border-bottom:1px solid #526A7B;padding:8px 12px} a:hover,a:focus-visible{color:#63D8D0;border-color:#63D8D0} a:focus-visible{outline:2px solid #8CB9F4;outline-offset:3px}
-      @media (max-width:600px){body{padding:14px;gap:12px}.wrap{overflow-x:auto}#tip{font-size:12px;padding:8px}}
-      @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+      @media (max-width:600px) { body { padding:14px; gap:12px; } .wrap { overflow-x:auto; } #tip { font-size:12px; padding:8px; } }
+      @media (prefers-reduced-motion:reduce) { *, *::before, *::after { animation:none!important; transition:none!important; } }
     </style>
     </head>
     <body>
