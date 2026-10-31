@@ -3,7 +3,7 @@ using System.Net;
 // Shared pieces so every slice of the console looks identical and lines up.
 static class Svg
 {
-    public const string Green = "#00FF00", Dim = "#00a83a", Label = "#2f8f45", Panel = "#001a06";
+    public const string Green = "#63D8D0", Dim = "#526A7B", Label = "#AAB5C4", Panel = "#111923";
 
     public static string Esc(string? s) => WebUtility.HtmlEncode(s ?? "");
 
@@ -20,8 +20,9 @@ static class Svg
       .flick{animation:f 7s infinite} @keyframes f{0%,95%,100%{opacity:1}96%{opacity:.6}97%{opacity:1} }
       .pulse{animation:p 1.6s ease-in-out infinite} @keyframes p{0%,100%{opacity:.35}50%{opacity:1} }
       .blink{animation:b 1s step-end infinite} @keyframes b{50%{opacity:0} }
+      @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
     </style>
-    <rect width="{{w}}" height="{{h}}" fill="#000"/>
+    <rect width="{{w}}" height="{{h}}" fill="#080A0F"/>
 
     """;
 
@@ -43,7 +44,7 @@ static class Svg
         return $"""<g pointer-events="none"><line x1="{tx + tw + 8}" y1="{y - 4}" x2="{w - 52}" y2="{y - 4}" stroke="{Dim}" stroke-opacity=".55" stroke-dasharray="6 4"/>""" +
                $"""<rect x="{w - 46}" y="{y - 9}" width="6" height="6" transform="rotate(45 {w - 43} {y - 6})" fill="{Green}" filter="url(#glow)"/>""" +
                $"""<rect x="{tx}" y="{y - 15}" width="{tw}" height="22" rx="3" fill="{Panel}" stroke="{Dim}"/>""" +
-               $"""<text class="lbl" x="{tx + 10}" y="{y}" fill="{Green}" filter="url(#glow)">[ {num:00} ] <tspan fill="#eaffea">{Esc(title)}</tspan></text></g>""";
+               $"""<text class="lbl" x="{tx + 10}" y="{y}" fill="{Green}" filter="url(#glow)">[ {num:00} ] <tspan fill="#E8EDF2">{Esc(title)}</tspan></text></g>""";
     }
 
     public static string Trim(string s, int max) => s.Length <= max ? s : s[..(max - 1)] + "…";

@@ -16,8 +16,8 @@ static class NightSky
 
         sb.Append($$"""
         <defs>
-          <linearGradient id="skyG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00040a"/><stop offset="1" stop-color="#021a0c"/></linearGradient>
-          <radialGradient id="moonG"><stop offset=".55" stop-color="#d9ffe0" stop-opacity=".35"/><stop offset="1" stop-color="#d9ffe0" stop-opacity="0"/></radialGradient>
+          <linearGradient id="skyG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#080A0F"/><stop offset="1" stop-color="#111923"/></linearGradient>
+          <radialGradient id="moonG"><stop offset=".55" stop-color="#B9F3F0" stop-opacity=".35"/><stop offset="1" stop-color="#B9F3F0" stop-opacity="0"/></radialGradient>
           <linearGradient id="trail" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff"/></linearGradient>
           <clipPath id="skyClip"><rect x="{{Left}}" y="{{Top}}" width="{{right - Left}}" height="{{h}}"/></clipPath>
         </defs>
@@ -40,14 +40,14 @@ static class NightSky
             int x = rng.Next(Left + 4, right - 4), y = rng.Next(Top + 4, Bottom - 30);
             double delay = rng.NextDouble() * 3;
             if (rng.NextDouble() < 0.12)
-                sb.Append($"""<g class="tw" style="animation-delay:{delay:0.0}s" fill="#eaffea"><rect x="{x - 2}" y="{y}" width="5" height="1"/><rect x="{x}" y="{y - 2}" width="1" height="5"/></g>""");
+                sb.Append($"""<g class="tw" style="animation-delay:{delay:0.0}s" fill="#E8EDF2"><rect x="{x - 2}" y="{y}" width="5" height="1"/><rect x="{x}" y="{y - 2}" width="1" height="5"/></g>""");
             else
-                sb.Append($"""<rect class="tw" style="animation-delay:{delay:0.0}s" x="{x}" y="{y}" width="{(rng.NextDouble() < .3 ? 2 : 1)}" height="{(rng.NextDouble() < .3 ? 2 : 1)}" fill="{(rng.NextDouble() < .2 ? "#9fffb0" : "#ffffff")}" opacity=".85"/>""");
+                sb.Append($"""<rect class="tw" style="animation-delay:{delay:0.0}s" x="{x}" y="{y}" width="{(rng.NextDouble() < .3 ? 2 : 1)}" height="{(rng.NextDouble() < .3 ? 2 : 1)}" fill="{(rng.NextDouble() < .2 ? "#63D8D0" : "#ffffff")}" opacity=".85"/>""");
         }
 
         // Crescent moon with a soft halo
         int mx = right - 90, my = Top + 26;
-        sb.Append($"""<circle cx="{mx}" cy="{my}" r="34" fill="url(#moonG)"/><circle cx="{mx}" cy="{my}" r="14" fill="#e8ffe8" filter="url(#glow)"/><circle cx="{mx + 9}" cy="{my - 5}" r="11" fill="#00060c"/>""");
+        sb.Append($"""<circle cx="{mx}" cy="{my}" r="34" fill="url(#moonG)"/><circle cx="{mx}" cy="{my}" r="14" fill="#E8EDF2" filter="url(#glow)"/><circle cx="{mx + 9}" cy="{my - 5}" r="11" fill="#080A0F"/>""");
 
         // Shooting star
         sb.Append($"""<g class="shoot"><line x1="{Left + 180}" y1="{Top + 8}" x2="{Left + 230}" y2="{Top + 17}" stroke="url(#trail)" stroke-width="2"/></g>""");
@@ -55,31 +55,31 @@ static class NightSky
         // Airship drifting across (with blinking nav lights)
         sb.Append($"""
         <g class="ship"><g transform="translate(0 {Top + 22})"><g class="bob2">
-          <rect x="4" y="0" width="34" height="9" rx="4" fill="#2f8f45"/><rect x="8" y="2" width="26" height="2" fill="#7dff8f" opacity=".6"/>
-          <rect x="16" y="10" width="12" height="5" fill="#0f4d1a"/><rect x="18" y="11" width="2" height="2" fill="#ffd84d"/><rect x="23" y="11" width="2" height="2" fill="#ffd84d"/>
-          <path d="M0 2 l5 2 -5 2z" fill="#2f8f45"/>
-          <rect class="lamp" x="39" y="3" width="2" height="2" fill="#ff4d4d"/><rect class="lamp" style="animation-delay:.5s" x="3" y="8" width="2" height="2" fill="#7dff8f"/>
+          <rect x="4" y="0" width="34" height="9" rx="4" fill="#8296AA"/><rect x="8" y="2" width="26" height="2" fill="#B9F3F0" opacity=".6"/>
+          <rect x="16" y="10" width="12" height="5" fill="#26384A"/><rect x="18" y="11" width="2" height="2" fill="#8CB9F4"/><rect x="23" y="11" width="2" height="2" fill="#8CB9F4"/>
+          <path d="M0 2 l5 2 -5 2z" fill="#8296AA"/>
+          <rect class="lamp" x="39" y="3" width="2" height="2" fill="#8CB9F4"/><rect class="lamp" style="animation-delay:.5s" x="3" y="8" width="2" height="2" fill="#B9F3F0"/>
         </g></g></g>
 
         """);
 
         // Hills + castle + dungeon entrance
         int g = Bottom;
-        sb.Append($"""<path d="M{Left} {g} L{Left} {g - 14} Q{Left + 120} {g - 30} {Left + 240} {g - 16} T{Left + 480} {g - 12} T{Left + 720} {g - 18} T{right} {g - 10} L{right} {g} Z" fill="#031a0a"/>""");
+        sb.Append($"""<path d="M{Left} {g} L{Left} {g - 14} Q{Left + 120} {g - 30} {Left + 240} {g - 16} T{Left + 480} {g - 12} T{Left + 720} {g - 18} T{right} {g - 10} L{right} {g} Z" fill="#0D111A"/>""");
         sb.Append($"""<path d="M{Left} {g - 14} Q{Left + 120} {g - 30} {Left + 240} {g - 16} T{Left + 480} {g - 12} T{Left + 720} {g - 18} T{right} {g - 10}" fill="none" stroke="{Dim}" stroke-opacity=".7"/>""");
 
         int cx = Left + 70, cb = g - 22;   // castle base
         sb.Append($"""
-        <g fill="#062b10" stroke="{Dim}" stroke-opacity=".6">
+        <g fill="#1B2938" stroke="{Dim}" stroke-opacity=".6">
           <rect x="{cx}" y="{cb - 30}" width="16" height="30"/><rect x="{cx + 16}" y="{cb - 18}" width="34" height="18"/><rect x="{cx + 50}" y="{cb - 38}" width="14" height="38"/>
           <path d="M{cx - 2} {cb - 30} h4 v-4 h4 v4 h4 v-4 h4 v4 h2" fill="none"/>
           <path d="M{cx + 48} {cb - 38} h4 v-4 h4 v4 h4 v-4 h4" fill="none"/>
           <path d="M{cx + 57} {cb - 38} v-10" fill="none"/>
         </g>
-        <path d="M{cx + 57} {cb - 48} l9 3 -9 3z" fill="#ffd84d"/>
-        <rect class="win" x="{cx + 6}" y="{cb - 22}" width="4" height="5" fill="#ffd84d"/>
-        <rect class="win" style="animation-delay:1.3s" x="{cx + 54}" y="{cb - 28}" width="4" height="5" fill="#ffd84d"/>
-        <path d="M{cx + 27} {cb} v-9 a6 6 0 0 1 12 0 v9z" fill="#000"/>
+        <path d="M{cx + 57} {cb - 48} l9 3 -9 3z" fill="#8CB9F4"/>
+        <rect class="win" x="{cx + 6}" y="{cb - 22}" width="4" height="5" fill="#8CB9F4"/>
+        <rect class="win" style="animation-delay:1.3s" x="{cx + 54}" y="{cb - 28}" width="4" height="5" fill="#8CB9F4"/>
+        <path d="M{cx + 27} {cb} v-9 a6 6 0 0 1 12 0 v9z" fill="#080A0F"/>
 
         """);
 
@@ -87,8 +87,8 @@ static class NightSky
         int ex = Left + 300;
         sb.Append($"""
         <path d="M{ex} {g} v-12 a10 10 0 0 1 20 0 v12z" fill="#000" stroke="{Dim}" stroke-opacity=".7"/>
-        <rect class="win" x="{ex - 8}" y="{g - 22}" width="3" height="6" fill="#ffae2b" filter="url(#glow)"/>
-        <rect x="{ex + 26}" y="{g - 24}" width="2" height="12" fill="#0f4d1a"/>
+        <rect class="win" x="{ex - 8}" y="{g - 22}" width="3" height="6" fill="#8CB9F4" filter="url(#glow)"/>
+        <rect x="{ex + 26}" y="{g - 24}" width="2" height="12" fill="#26384A"/>
         <text class="lbl" x="{ex + 32}" y="{g - 16}" fill="{Label}" style="font-size:10px">DUNGEON ▼</text>
 
         """);
