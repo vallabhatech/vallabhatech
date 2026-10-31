@@ -25,11 +25,11 @@ static class ConnectRenderer
         sb.Append($$"""
         <filter id="bg" x="-30%" y="-80%" width="160%" height="260%"><feGaussianBlur stdDeviation="6"/></filter>
         <rect class="pulse" style="animation-delay:{{delay:0.0}}s" x="{{bx:0.##}}" y="{{by}}" width="{{bw:0.##}}" height="{{bh}}" rx="6" fill="{{Green}}" fill-opacity=".45" filter="url(#bg)"/>
-        <rect x="{{bx:0.##}}" y="{{by}}" width="{{bw:0.##}}" height="{{bh}}" rx="6" fill="#002a0b" stroke="{{Green}}" stroke-width="2"/>
+        <rect x="{{bx:0.##}}" y="{{by}}" width="{{bw:0.##}}" height="{{bh}}" rx="6" fill="#172632" stroke="{{Green}}" stroke-width="2"/>
         <rect x="{{bx + 12:0.##}}" y="{{by + 10}}" width="26" height="24" rx="3" fill="#000" stroke="{{Green}}"/>
         <rect x="{{bx + 12:0.##}}" y="{{by + 30}}" width="26" height="4" fill="{{Green}}" fill-opacity=".5"/>
         <text class="sm" x="{{bx + 25:0.##}}" y="{{by + 27}}" fill="{{Green}}" text-anchor="middle" filter="url(#glow)">{{Esc(link.Key)}}</text>
-        <text class="sm" x="{{bx + 50:0.##}}" y="{{by + 27}}" fill="#eaffea" filter="url(#glow)">{{Esc(Trim(link.Label, (int)(bw - 60) / 8))}}</text>
+        <text class="sm" x="{{bx + 50:0.##}}" y="{{by + 27}}" fill="#E8EDF2" filter="url(#glow)">{{Esc(Trim(link.Label, (int)(bw - 60) / 8))}}</text>
 
         """);
         sb.Append(Close(w, H));
