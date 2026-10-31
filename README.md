@@ -1,10 +1,10 @@
 <p align="center">
   <img src="./assets/header.svg?v=13393df5-1" width="100%" align="top">
-  <a href="https://github.com/vallabhatech/trying"><img src="./assets/dungeon.svg?v=6e645e2c" width="100%" align="top"></a>
+  <a href="https://github.com/vallabhatech/trying"><img src="./assets/dungeon.svg?v=3171a032" width="100%" align="top"></a>
   <img src="./assets/inventory.svg?v=7662aad6" width="100%" align="top">
 <!-- QUESTS:START -->
 <a href="https://github.com/vallabhatech/V.E.R.I.T.A.S"><img src="./assets/quest-1.svg?v=aecfbdce" width="50%" align="top" alt="V.E.R.I.T.A.S"></a><a href="https://github.com/vallabhatech/CareSync"><img src="./assets/quest-2.svg?v=f7eafcd1" width="50%" align="top" alt="CareSync"></a>
-<a href="https://github.com/vallabhatech/A.U.R.A"><img src="./assets/quest-3.svg?v=91acdcd4" width="50%" align="top" alt="A.U.R.A"></a><a href="https://github.com/vallabhatech/Digital-Ally"><img src="./assets/quest-4.svg?v=6f00e66c" width="50%" align="top" alt="Digital-Ally"></a>
+<a href="https://github.com/vallabhatech/A.U.R.A"><img src="./assets/quest-3.svg?v=91acdcd4" width="50%" align="top" alt="A.U.R.A"></a><a href="https://github.com/vallabhatech/Digital-Ally"><img src="./assets/quest-4.svg?v=47cb742f" width="50%" align="top" alt="Digital-Ally"></a>
 <a href="https://github.com/vallabhatech/ChainIQ"><img src="./assets/quest-5.svg?v=53630012" width="50%" align="top" alt="ChainIQ"></a><a href="https://github.com/vallabhatech/SnakeAI"><img src="./assets/quest-6.svg?v=7f46f287" width="50%" align="top" alt="SnakeAI"></a>
 <!-- QUESTS:END -->
   <img src="./assets/about.svg?v=1f28c65e" width="100%" align="top">
