@@ -10,8 +10,8 @@ class DungeonRenderer(Profile p)
     const int W = 960, H = 400;           // multiple of 40 so the console grid lines up
     const int Cell = 16, Tile = 14;
     const int GridX = 76, GridY = 156;     // sky strip sits above the grid (y 56-140)
-    const string Green = "#00FF00", Dim = "#00a83a", Label = "#2f8f45";
-    static readonly string[] FloorColors = ["#0e5a22", "#16912f", "#22cc46", "#7dff8f"];
+    const string Green = "#63D8D0", Dim = "#526A7B", Label = "#AAB5C4";
+    static readonly string[] FloorColors = ["#344B60", "#526F88", "#8CB9F4", "#B9F3F0"];
     static readonly CultureInfo Inv = CultureInfo.InvariantCulture;
 
     public string Render(bool interactive)
@@ -29,8 +29,8 @@ class DungeonRenderer(Profile p)
           <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
           <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="{{Green}}" stroke-opacity=".07"/></pattern>
           <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" fill-opacity=".3"/></pattern>
-          <g id="wall"><rect width="{{Tile}}" height="{{Tile}}" fill="#0a1f0f"/><rect width="{{Tile}}" height="2" fill="#163a1e"/><rect y="7" width="{{Tile}}" height="1" fill="#050f07"/><rect x="6" y="2" width="1" height="5" fill="#050f07"/><rect x="3" y="8" width="1" height="6" fill="#050f07"/><rect x="10" y="8" width="1" height="6" fill="#050f07"/></g>
-          <g id="chest"><rect x="3" y="5" width="8" height="6" fill="#c98a1b"/><rect x="3" y="5" width="8" height="2" fill="#ffd84d"/><rect x="6" y="7" width="2" height="2" fill="#3a2500"/></g>
+          <g id="wall"><rect width="{{Tile}}" height="{{Tile}}" fill="#171D29"/><rect width="{{Tile}}" height="2" fill="#252E3D"/><rect y="7" width="{{Tile}}" height="1" fill="#0D111A"/><rect x="6" y="2" width="1" height="5" fill="#0D111A"/><rect x="3" y="8" width="1" height="6" fill="#0D111A"/><rect x="10" y="8" width="1" height="6" fill="#0D111A"/></g>
+          <g id="chest"><rect x="3" y="5" width="8" height="6" fill="#526F88"/><rect x="3" y="5" width="8" height="2" fill="#8CB9F4"/><rect x="6" y="7" width="2" height="2" fill="#080A0F"/></g>
           <g id="hero"><rect x="5" y="1" width="4" height="4" fill="#fff"/><rect x="3" y="6" width="8" height="2" fill="#fff"/><rect x="6" y="5" width="2" height="5" fill="#fff"/><rect x="4" y="10" width="2" height="3" fill="#fff"/><rect x="8" y="10" width="2" height="3" fill="#fff"/><rect x="11" y="3" width="1" height="6" fill="#9ff"/></g>
         </defs>
         <style>
@@ -40,14 +40,14 @@ class DungeonRenderer(Profile p)
           .bob{animation:bob .8s steps(2) infinite} @keyframes bob{50%{transform:translateY(-1px)} }
           .flick{animation:f 7s infinite} @keyframes f{0%,95%,100%{opacity:1}96%{opacity:.6}97%{opacity:1} }
         </style>
-        <rect width="{{W}}" height="{{H}}" fill="#000"/>
+        <rect width="{{W}}" height="{{H}}" fill="#080A0F"/>
         <rect x="12" width="{{W - 24}}" height="{{H}}" fill="url(#grid)"/>
         <g class="flick" filter="url(#glow)" pointer-events="none">
           <line x1="14" y1="0" x2="14" y2="{{H}}" stroke="{{Green}}" stroke-width="3"/>
           <line x1="{{W - 14}}" y1="0" x2="{{W - 14}}" y2="{{H}}" stroke="{{Green}}" stroke-width="3"/>
         </g>
         <text class="ui" x="40" y="30" fill="{{Green}}" filter="url(#glow)">&gt; ./explore --dungeon "my last 365 days"</text>
-        <text class="small" x="40" y="50" fill="{{Label}}">1 tile = 1 day  ·  dark stone = no commits  ·  brighter = more  ·  gold = best day</text>
+        <text class="small" x="40" y="50" fill="{{Label}}">1 tile = 1 day  ·  dark stone = no commits  ·  brighter = more  ·  blue = best day</text>
         {{(interactive ? HoverHint() : ExploreButton())}}
 
         """);
@@ -98,14 +98,14 @@ class DungeonRenderer(Profile p)
             if (interactive) sb.Append("</g>");
         }
         foreach (var (x, y) in torches)
-            sb.Append($"""<g class="torch" filter="url(#glow)"><rect x="{x + 6}" y="{y + 6}" width="2" height="6" fill="#7a4a12"/><rect x="{x + 5}" y="{y + 2}" width="4" height="4" fill="#ffae2b"/></g>""");
+            sb.Append($"""<g class="torch" filter="url(#glow)"><rect x="{x + 6}" y="{y + 6}" width="2" height="6" fill="#7a4a12"/><rect x="{x + 5}" y="{y + 2}" width="4" height="4" fill="#8CB9F4"/></g>""");
         sb.Append('\n');
 
         // Gold frame around the best day
         if (bestDay is not null)
         {
             var (bx0, by0) = TilePos(bestDay);
-            sb.Append($"""<rect class="torch" x="{bx0 - 2}" y="{by0 - 2}" width="{Tile + 4}" height="{Tile + 4}" fill="none" stroke="#ffd84d" stroke-width="2" filter="url(#glow)" pointer-events="none"/>""");
+            sb.Append($"""<rect class="torch" x="{bx0 - 2}" y="{by0 - 2}" width="{Tile + 4}" height="{Tile + 4}" fill="none" stroke="#8CB9F4" stroke-width="2" filter="url(#glow)" pointer-events="none"/>""");
         }
 
         // The hero walks the current streak (or stands on the latest active day)
@@ -131,7 +131,7 @@ class DungeonRenderer(Profile p)
             sb.Append($"""<rect x="{GridX + 146 + i * Cell}" y="{ly}" width="{Tile}" height="{Tile}" fill="{FloorColors[i]}"/>""");
         sb.Append($"""<use href="#chest" x="{GridX + 146 + 3 * Cell}" y="{ly}"/><text class="lbl" x="{GridX + 220}" y="{ly + 11}" fill="{Label}">many (treasure)</text>""");
         sb.Append($"""<use href="#hero" x="{GridX + 370}" y="{ly}"/><text class="lbl" x="{GridX + 390}" y="{ly + 11}" fill="{Label}">me (today) walking my streak</text>""");
-        sb.Append($"""<rect x="{GridX + 640}" y="{ly}" width="{Tile}" height="{Tile}" fill="none" stroke="#ffd84d" stroke-width="2"/><text class="lbl" x="{GridX + 662}" y="{ly + 11}" fill="{Label}">best day</text>""");
+        sb.Append($"""<rect x="{GridX + 640}" y="{ly}" width="{Tile}" height="{Tile}" fill="none" stroke="#8CB9F4" stroke-width="2"/><text class="lbl" x="{GridX + 662}" y="{ly + 11}" fill="{Label}">best day</text>""");
         sb.Append('\n');
 
         // Stat boxes
@@ -147,7 +147,7 @@ class DungeonRenderer(Profile p)
         for (int i = 0; i < 4; i++)
         {
             int x = bx + i * (bw + gap);
-            sb.Append($"""<rect x="{x}" y="{by}" width="{bw}" height="62" rx="4" fill="#001a06" stroke="{Dim}" stroke-opacity=".7"/>""");
+            sb.Append($"""<rect x="{x}" y="{by}" width="{bw}" height="62" rx="4" fill="#111923" stroke="{Dim}" stroke-opacity=".7"/>""");
             sb.Append($"""<text class="lbl" x="{x + 14}" y="{by + 20}" fill="{Label}">{titles[i]}</text>""");
             sb.Append($"""<text class="big" x="{x + 14}" y="{by + 48}" fill="{Green}" filter="url(#glow)">{values2[i]}</text>""");
         }
@@ -172,7 +172,7 @@ class DungeonRenderer(Profile p)
           <rect class="pulse" x="{{bx}}" y="{{by}}" width="{{bw}}" height="{{bh}}" rx="6" fill="{{Green}}" filter="url(#btnGlow)"/>
           <rect x="{{bx}}" y="{{by}}" width="{{bw}}" height="{{bh}}" rx="6" fill="#003b0f" stroke="{{Green}}" stroke-width="2"/>
           <g clip-path="url(#btnClip)"><rect class="sweep" x="{{bx - 80}}" y="{{by}}" width="70" height="{{bh}}" fill="url(#shine)" transform="skewX(-20)"/></g>
-          <text x="{{bx + 18}}" y="{{by + 21}}" fill="#eaffea" style="font-size:15px;letter-spacing:1px" filter="url(#glow)">CLICK TO EXPLORE</text>
+          <text x="{{bx + 18}}" y="{{by + 21}}" fill="#E8EDF2" style="font-size:15px;letter-spacing:1px" filter="url(#glow)">CLICK TO EXPLORE</text>
           <g class="nudge"><path d="M{{bx + bw - 34}} {{by + 9}} l9 7 -9 7z M{{bx + bw - 24}} {{by + 9}} l9 7 -9 7z" fill="{{Green}}" filter="url(#glow)"/></g>
         </g>
         <style>
