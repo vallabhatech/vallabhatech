@@ -28,7 +28,11 @@ static class HtmlPage
       const tip = document.getElementById('tip');
       document.querySelectorAll('.day').forEach(g => {
         g.querySelector('title')?.remove();               // use our styled tooltip instead
-        g.setAttribute('tabindex', '0');\n        g.setAttribute('role', 'img');\n        g.addEventListener('focus', () => { tip.textContent = g.dataset.tip; tip.style.left = '16px'; tip.style.top = '16px'; tip.style.opacity = 1; });\n        g.addEventListener('blur', () => tip.style.opacity = 0);\n        g.addEventListener('mousemove', e => {
+        g.setAttribute('tabindex', '0');
+        g.setAttribute('role', 'img');
+        g.addEventListener('focus', () => { tip.textContent = g.dataset.tip; tip.style.left = '16px'; tip.style.top = '16px'; tip.style.opacity = 1; });
+        g.addEventListener('blur', () => tip.style.opacity = 0);
+        g.addEventListener('mousemove', e => {
           tip.textContent = g.dataset.tip;
           tip.style.left = Math.min(e.clientX + 14, innerWidth - tip.offsetWidth - 8) + 'px';
           tip.style.top = (e.clientY - 40) + 'px';
