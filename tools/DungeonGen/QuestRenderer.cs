@@ -26,7 +26,7 @@ static class QuestRenderer
         // status badge
         var days = (int)(DateTime.UtcNow - repo.PushedAt).TotalDays;
         var (status, color, pulse) = days <= 14 ? ("ACTIVE", Green, true)
-                                   : days <= 90 ? ("IN PROGRESS", "#ffd84d", false)
+                                   : days <= 90 ? ("IN PROGRESS", "#8CB9F4", false)
                                    : ("ON HOLD", Label, false);
         int sw = status.Length * 8 + 20, sx = bx + bw - 16 - sw;
         sb.Append($"""<rect x="{sx}" y="{by + 10}" width="{sw}" height="20" rx="3" fill="none" stroke="{color}"/>""");
@@ -36,7 +36,7 @@ static class QuestRenderer
         bool contributor = !repo.NameWithOwner.StartsWith(login + "/", StringComparison.OrdinalIgnoreCase);
         if (contributor)
         {
-            const string gold = "#ffd84d";
+            const string gold = "#8CB9F4";
             int cw = 11 * 8 + 20, cx = sx - 8 - cw;
             sb.Append($"""<rect class="pulse" x="{cx}" y="{by + 10}" width="{cw}" height="20" rx="3" fill="{gold}" fill-opacity=".15"/>""");
             sb.Append($"""<rect x="{cx}" y="{by + 10}" width="{cw}" height="20" rx="3" fill="none" stroke="{gold}"/>""");
@@ -57,7 +57,7 @@ static class QuestRenderer
         for (int i = 0; i < lines.Count; i++)
             sb.Append($"""<text class="sm" x="{bx + 16}" y="{by + 84 + i * 18}" fill="{Dim}">{Esc(lines[i])}</text>""");
         if (hasRole)
-            sb.Append($"""<text class="sm" x="{bx + 16}" y="{by + 84 + lines.Count * 18 + 8}" fill="#ffd84d"><tspan fill="{Label}">my role: </tspan>{Esc(Trim(role!, 41))}</text>""");
+            sb.Append($"""<text class="sm" x="{bx + 16}" y="{by + 84 + lines.Count * 18 + 8}" fill="#8CB9F4"><tspan fill="{Label}">my role: </tspan>{Esc(Trim(role!, 41))}</text>""");
 
         // footer: language · stars · forks · last played
         int fy = by + bh - 16;
