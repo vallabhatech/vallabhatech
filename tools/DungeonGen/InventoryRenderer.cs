@@ -37,7 +37,7 @@ static class InventoryRenderer
             double pct = 100.0 * l.Bytes / totalBytes;
             sb.Append($"""<rect x="{lx + 18}" y="{y + 4}" width="12" height="12" fill="{l.Color}" filter="url(#glow)"/>""");
             sb.Append($"""<text class="sm" x="{lx + 46}" y="{y + 15}" fill="{Green}">{Esc(Trim(l.Name, 16))}</text>""");
-            sb.Append($"""<rect x="{barX}" y="{y + 5}" width="{barW}" height="10" fill="#062b10"/>""");
+            sb.Append($"""<rect x="{barX}" y="{y + 5}" width="{barW}" height="10" fill="#1B2938"/>""");
             sb.Append($"""<rect x="{barX}" y="{y + 5}" width="{Math.Max(2, barW * pct / 100):0.#}" height="10" fill="{l.Color}"/>""");
             // pixel notches so it reads like a game bar
             for (int n = 1; n < 10; n++)
