@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/header.svg?v=13393df5-1" width="100%" align="top">
-  <a href="https://github.com/vallabhatech/trying"><img src="./assets/dungeon.svg?v=e52f088a" width="100%" align="top"></a>
-  <img src="./assets/inventory.svg?v=b98292ea" width="100%" align="top">
+  <a href="https://github.com/vallabhatech/trying"><img src="./assets/dungeon.svg?v=2c0a5638" width="100%" align="top"></a>
+  <img src="./assets/inventory.svg?v=7a7a0311" width="100%" align="top">
 <!-- QUESTS:START -->
 <a href="https://github.com/vallabhatech/V.E.R.I.T.A.S"><img src="./assets/quest-1.svg?v=f5da61f7" width="50%" align="top" alt="V.E.R.I.T.A.S"></a><a href="https://github.com/vallabhatech/CareSync"><img src="./assets/quest-2.svg?v=35df1f46" width="50%" align="top" alt="CareSync"></a>
 <a href="https://github.com/vallabhatech/A.U.R.A"><img src="./assets/quest-3.svg?v=4bde282b" width="50%" align="top" alt="A.U.R.A"></a><a href="https://github.com/vallabhatech/Digital-Ally"><img src="./assets/quest-4.svg?v=2f9b9eb3" width="50%" align="top" alt="Digital-Ally"></a>
